@@ -2,3 +2,5 @@
 Code is written using JavaFX in two versions, with the use of FXML and without.
 
 Code was written in Intelji 2017
+![](LuckyHitFXML/Screenshot/Lucky-hit.png)
+
